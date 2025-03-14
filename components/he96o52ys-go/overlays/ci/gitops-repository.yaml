@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: he96o52ys-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/he96o52ys-go-gitops
